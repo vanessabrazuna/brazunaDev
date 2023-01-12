@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 
 DevLinks is a link aggregator to use as an online business card.
 
-- [Acesse o projeto finalizado, online](https://vanessabrazuna.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://vanessabrazuna.github.io/devLinks)
 
 ## 🔖 Layout
 
