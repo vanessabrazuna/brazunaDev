@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Brazuna Dev </h1>
 
 <p align="center">
 Responsive personal page to display and promote my links.
@@ -18,7 +18,7 @@ Responsive personal page to display and promote my links.
 <br>
 
 <p align="center">
-  <img alt="project DevLinks" src=".github/preview.png" width="100%">
+  <img alt="project Brazuna Dev" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -27,18 +27,19 @@ This project was developed with the following technologies:
 
 - HTML e CSS
 - JavaScript
+- Ionicons
 - Git e Github
 - Figma
 
 ## 💻 Project
 
-DevLinks is a link aggregator to use as an online business card.
+Brazuna Dev is a link aggregator to use as an online business card.
 
-- [Acesse o projeto finalizado, online](https://vanessabrazuna.github.io/devLinks)
+- [Acesse o projeto finalizado, online](https://brazuna.vercel.app/)
 
 ## 🔖 Layout
 
-You can preview the project layout through [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). It is necessary to have an account on [Figma](https://figma.com) to access it.
+You can preview the project layout through [DESSE LINK](https://www.figma.com/file/jSf5JSzAaO4o7yLze84rAK/DevLinks-(Community)?type=design&node-id=0-1&mode=design&t=ZChqqpuECMPyY5R6-0). It is necessary to have an account on [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
